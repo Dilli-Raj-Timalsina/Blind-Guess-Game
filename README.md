@@ -1,1 +1,1 @@
-# Guess-the-Number-.-GAME-
+# In this game you have to randomly select 2 numbers in between 1 to 20. if you select the hidden correct number which is in between 1 to 20 then you will win others your life will be decreased by and and it will show you little hint of whether that number is greater or smaller then the correct number.
