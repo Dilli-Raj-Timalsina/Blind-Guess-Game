@@ -12,9 +12,9 @@ html {
 }
 
 body {
-  font-family: 'Press Start 2P', sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #eee;
-  background-color: #222;
+  background-color: rgb(221, 146, 146);
   /* background-color: #60b347; */
 }
 
@@ -116,4 +116,10 @@ h1 {
 
 .label-score {
   margin-bottom: 2rem;
+}
+.intro {
+  color: #222;
+  font-size: 2rem;
+  font-family: inherit;
+  text-align: right;
 }
