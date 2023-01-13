@@ -1,1 +1,5 @@
-# In this game you have to randomly select 2 numbers in between 1 to 20. if you select the hidden correct number which is in between 1 to 20 then you will win others your life will be decreased by 1 and it will show you little hint of whether that number is greater or smaller then the correct number.
+
+# Blind-Guess-Number Game:
+This is a simple and fun game made using html,css and vanilla javascript . Here you have to guess random number and if becomes correct guess then your score will be increased.
+This app is live on https://blindguessbydillirajtimalsina.netlify.app/
+. you can play it now .
