@@ -119,8 +119,10 @@ h1 {
   margin-bottom: 2rem;
 }
 .intro {
+  padding-top: 13px;
+  padding-right: 20px;
   color: #222;
-  font-size: 2rem;
+  font-size: 3rem;
   font-family: inherit;
   text-align: right;
 }
