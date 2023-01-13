@@ -70,7 +70,8 @@ h1 {
 }
 
 .between {
-  font-size: 1.4rem;
+  padding-top: 19px;
+  font-size: 3rem;
   position: absolute;
   top: 2rem;
   right: 2rem;
